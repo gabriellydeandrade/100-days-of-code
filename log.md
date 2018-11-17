@@ -19,3 +19,14 @@ Talking about what I learned: It was fantastic remember the basic concepts in li
 **Thoughts:** WoW It's pretty hard to understand everyhing about position at the beginning. I have tried manipulate elements in this way in the past but was terrible, now I fell a little more confortable to work with the float CSS property.
 
 **Useful links:** [Image of the template that I'm working on](http://pt-br.tinypic.com/r/vo07dv/9), [Code](https://github.com/gaby-andrade/front-journey)
+
+### Day 3: November 16, 2018
+
+**Today's Progress**: 
+1. Learning more about fallback in CSS, importing a font and position property in CSS
+2. Add more updates in [Alura](https://cursos.alura.com.br/formacao-front-end) project: correcting position navigation and fixing menu and footer with position=fixed. 
+
+**Thoughts:** I could understand so much better while I'm practing with these projects.   
+
+**Useful links:** [Google fonts library](https://fonts.google.com/)
+
