@@ -30,3 +30,18 @@ Talking about what I learned: It was fantastic remember the basic concepts in li
 
 **Useful links:** [Google fonts library](https://fonts.google.com/)
 
+### Day 4: November 17, 2018
+
+**Today's Progress**: 
+1. I finally finished the basic of HTML and CSS project in alura. [All my code is on my github](https://github.com/gaby-andrade/front-journey). 
+2. I started a new course at [Alura](https://cursos.alura.com.br/formacao-front-end) focused in good practices and advanced topics related to HTML5 and CSS3. 
+3. I learned today: 
+- CSS Units: rem, em and ch
+
+**Thoughts:** I have some problems to merge everything into master and deleting the other branch (I'm trying to do everything in the console without interface). Besides that, I am proud of myself because I finish the first course of a front-end carrer. At the same time, I fell a little guilty because when I finish my english course I stop practing and nowadays I have some difficulties with the spelling of some words :( So...Let's learn more and more!! Step by step!    
+
+**Useful links:** 
+- [Useful commands for git](https://backlog.com/git-tutorial/branching/merge/)
+- [CSS Units](https://www.w3schools.com/cssref/css_units.asp)
+
+
