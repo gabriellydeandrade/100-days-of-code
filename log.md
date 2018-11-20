@@ -44,4 +44,13 @@ Talking about what I learned: It was fantastic remember the basic concepts in li
 - [Useful commands for git](https://backlog.com/git-tutorial/branching/merge/)
 - [CSS Units](https://www.w3schools.com/cssref/css_units.asp)
 
+### Day 5: November 19, 2018
+
+**Today's Progress**: 
+1. I was correcting again all the CSS unit in my project
+2. Correcting the space of all the elements in the index page given (try to implement good practices)
+
+
+**Thoughts:** I am completely sleepy today, I need to study for my exams in college.
+
 
