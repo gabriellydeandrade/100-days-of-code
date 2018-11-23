@@ -53,4 +53,20 @@ Talking about what I learned: It was fantastic remember the basic concepts in li
 
 **Thoughts:** I am completely sleepy today, I need to study for my exams in college.
 
+### Day 6: November 22, 2018
+
+**Today's Progress**: 
+1. Using Clockwise Notation for margin and padding inline (It was a surprise discover this name)
+2. Using CSS selectors [attr = value]
+3. Understanding more about CSS conflict and overriding: class, id, inline styles and !important
+4. Colors Pattern (hex code and rgb)
+5. Learning about CSS variables and fallbacks
+
+**Thoughts:**
+I finished "Introduction to Basic CSS" in FreeCodeCamp o/
+
+**Useful links:** 
+- [Color Pattern: RGB](https://goo.gl/2AcjPt)
+
+
 
